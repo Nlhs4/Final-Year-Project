@@ -1,0 +1,1 @@
+A cost function framework to estimate the cumulative maintenance cost of an attenuation over a given return period. Completed as part of the owner's final year university project. There is no user input or interface, all parameters have to be changed within the code itself.
